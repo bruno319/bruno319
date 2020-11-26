@@ -17,6 +17,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno319&layout=compact&theme=dark)](https://github.com/bruno319?tab=repositories)
 
-![bruno319's github stats](https://github-readme-stats.vercel.app/api?username=bruno319&show_icons=true&count_private=true&hide=contribs,issues&theme=dark)
-
 [![jikan-rs](https://github-readme-stats.vercel.app/api/pin/?username=bruno319&repo=jikan-rs&theme=dark)](https://github.com/bruno319/jikan-rs)
